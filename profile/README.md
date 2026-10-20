@@ -163,7 +163,7 @@
 | 문서 | 설명 |
 | --- | --- |
 | [Repository](https://github.com/codeit-fs-16-part2-team1/forest-of-study) | 소스 코드 및 로컬 실행 안내 |
-| [요구사항 명세](https://github.com/codeit-fs-16-part2-team1/forest-of-study/docs/brief.md) | 프로젝트 초기 요구사항 |
-| [API 명세](https://github.com/codeit-fs-16-part2-team1/forest-of-study/docs/API.md) | API 요청 및 응답 규격 |
-| [DB 설계](https://github.com/codeit-fs-16-part2-team1/forest-of-study/docs/DB.md) | 데이터베이스 구조 및 ERD |
-| [기술 의사결정 기록](https://github.com/codeit-fs-16-part2-team1/forest-of-study/docs/ADR.md) | 주요 설계 결정 및 변경 이력 |
+| [요구사항 명세](https://github.com/codeit-fs-16-part2-team1/forest-of-study/blob/main/docs/brief.md) | 프로젝트 초기 요구사항 |
+| [API 명세](https://github.com/codeit-fs-16-part2-team1/forest-of-study/blob/main/docs/API.md) | API 요청 및 응답 규격 |
+| [DB 설계](https://github.com/codeit-fs-16-part2-team1/forest-of-study/blob/main/docs/DB.md) | 데이터베이스 구조 및 ERD |
+| [기술 의사결정 기록](https://github.com/codeit-fs-16-part2-team1/forest-of-study/blob/main/docs/ADR.md) | 주요 설계 결정 및 변경 이력 |
